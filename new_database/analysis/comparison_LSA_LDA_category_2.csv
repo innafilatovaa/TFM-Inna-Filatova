@@ -1,0 +1,11 @@
+Method,,Word 1,Word 2,Word 3,Word 4,Word 5,Word 6,Word 7,Word 8,Word 9,Word 10
+LDA,0,cápsulas (0.0479),fácil (0.0237),usar (0.0220),gusta (0.0174),bueno (0.0133),sale (0.0030),marca (0.0339),variedad (0.0167),cafés (0.0164),puedes (0.0113)
+LSA,,cápsulas (0.3026),fácil (0.3039),usar (0.2807),gusta (0.1431),bueno (0.1264),sale (0.1642),precio (0.2198),buen (0.2085),funciona (0.1836),calidad (0.1678)
+LDA,1,usar (0.0486),fácil (0.0484),calidad (0.0480),precio (0.0442),buen (0.0190),gusto (0.0230),buena (0.0205),dolce (0.0196),mejor (0.0173),facil (0.0137)
+LSA,,usar (0.0759),fácil (0.1251),calidad (0.0504),precio (0.0836),buen (0.3319),funciona (0.7782),producto (0.1471),perfectamente (0.0612),maravilla (0.0564),llegó (0.0322)
+LDA,2,caja (0.0365),producto (0.0180),regalo (0.0146),llegó (0.0118),va (0.0026),funciona (0.0335),perfecta (0.0135),ruido (0.0115),momento (0.0107),perfectamente (0.0089)
+LSA,,caja (0.1657),producto (0.5200),regalo (0.0718),llegó (0.0532),va (0.0496),gusta (0.4792),calidad (0.1721),perfecto (0.1339),llegado (0.0634),compra (0.0522)
+LDA,3,cápsulas (0.0479),fácil (0.0237),usar (0.0220),bueno (0.0133),sale (0.0030),marca (0.0339),gusta (0.0174),variedad (0.0167),cafés (0.0164),puedes (0.0113)
+LSA,,cápsulas (0.1551),fácil (0.0582),usar (0.0469),bueno (0.3127),sale (0.4213),producto (0.5045),caja (0.0970),caliente (0.0916),calidad (0.0715),caras (0.0583)
+LDA,4,usar (0.0486),fácil (0.0484),calidad (0.0480),precio (0.0442),gusto (0.0230),buena (0.0205),dolce (0.0196),buen (0.0190),mejor (0.0173),facil (0.0137)
+LSA,,usar (0.0302),fácil (0.0248),calidad (0.5660),precio (0.4328),funciona (0.1523),relación (0.0803),bueno (0.0670),excelente (0.0399),compra (0.0321),cumple (0.0262)

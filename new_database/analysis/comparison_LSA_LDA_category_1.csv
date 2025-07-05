@@ -1,0 +1,11 @@
+Method,,Word 1,Word 2,Word 3,Word 4,Word 5,Word 6,Word 7,Word 8,Word 9,Word 10
+LDA,0,fácil (0.0180),cafés (0.0148),sale (0.0140),usar (0.0137),buen (0.0126),hacer (0.0015),espuma (0.0101),buena (0.0088),limpiar (0.0080),gusta (0.0071)
+LSA,,fácil (0.1497),cafés (0.1307),sale (0.1884),usar (0.1431),buen (0.2014),hacer (0.1529),calidad (0.1425),precio (0.1280),cada (0.1247),uso (0.1233)
+LDA,1,servicio (0.0909),técnico (0.0117),garantía (0.0097),después (0.0095),reparación (0.0085),producto (0.0074),veces (0.0105),siemens (0.0099),año (0.0080),comprar (0.0072)
+LSA,,servicio (0.2800),técnico (0.1796),garantía (0.1035),después (0.0933),reparación (0.0914),producto (0.2150),fácil (0.3448),usar (0.2613),funciona (0.1562),años (0.0942)
+LDA,2,fácil (0.0180),usar (0.0137),buen (0.0126),limpiar (0.0080),cafés (0.0148),sale (0.0140),espuma (0.0101),buena (0.0088),gusta (0.0071),hacer (0.0015)
+LSA,,fácil (0.3121),usar (0.2526),buen (0.7310),limpiar (0.1030),precio (0.1381),calidad (0.1147),producto (0.1080),facil (0.0716),cumple (0.0380),funciona (0.0345)
+LDA,3,fácil (0.0180),sale (0.0140),usar (0.0137),limpiar (0.0080),cafés (0.0148),buen (0.0126),espuma (0.0101),buena (0.0088),gusta (0.0071),hacer (0.0015)
+LSA,,fácil (0.5059),sale (0.0884),usar (0.4186),limpiar (0.1962),limpia (0.0661),rico (0.0586),bueno (0.0584),molido (0.0564),facil (0.0557),mejor (0.0528)
+LDA,4,contenta (0.0135),sale (0.0108),funciona (0.0086),caliente (0.0066),gusta (0.0102),compra (0.0079),recomiendo (0.0068),mucha (0.0067),parece (0.0067),llevo (0.0066)
+LSA,,contenta (0.0732),sale (0.3532),funciona (0.7157),caliente (0.0978),bueno (0.1948),maravilla (0.1389),perfectamente (0.1375),encanta (0.0820),veces (0.0809),perfecto (0.0764)

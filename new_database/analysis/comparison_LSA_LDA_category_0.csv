@@ -1,0 +1,11 @@
+Method,,Word 1,Word 2,Word 3,Word 4,Word 5,Word 6,Word 7,Word 8,Word 9,Word 10
+LDA,0,fácil (0.0879),usar (0.0592),limpiar (0.0475),bueno (0.0161),sale (0.0139),buen (0.0098),facil (0.0125),diseño (0.0111),cómoda (0.0111),práctica (0.0098)
+LSA,,fácil (0.2750),usar (0.2097),limpiar (0.1546),bueno (0.1250),sale (0.1661),buen (0.2645),calidad (0.2873),precio (0.2231),funciona (0.1494),producto (0.1487)
+LDA,1,calidad (0.0872),precio (0.0405),producto (0.0205),excelente (0.0124),buen (0.0007),buena (0.0500),compra (0.0190),sale (0.0112),perfecto (0.0108),mejor (0.0105)
+LSA,,calidad (0.5622),precio (0.3901),producto (0.1279),excelente (0.0461),buen (0.0933),relación (0.1425),mala (0.0446),materiales (0.0409),cumple (0.0260),plástico (0.0218)
+LDA,2,fácil (0.0879),usar (0.0592),limpiar (0.0475),cómoda (0.0111),buen (0.0098),bueno (0.0161),sale (0.0139),facil (0.0125),diseño (0.0111),práctica (0.0098)
+LSA,,fácil (0.4166),usar (0.3228),limpiar (0.2012),cómoda (0.0425),buen (0.2199),calidad (0.3526),precio (0.2610),relación (0.1186),excelente (0.0591),producto (0.0498)
+LDA,3,cumple (0.0330),perfectamente (0.0251),función (0.0202),perfecta (0.0124),pequeña (0.0107),funciona (0.0412),mejor (0.0119),compra (0.0107),esperaba (0.0096),buena (0.0088)
+LSA,,cumple (0.6195),perfectamente (0.1309),función (0.4464),perfecta (0.0951),pequeña (0.0704),perfecto (0.1585),expectativas (0.1122),sencilla (0.0690),persona (0.0630),precio (0.0599)
+LDA,4,producto (0.0205),compra (0.0190),excelente (0.0124),sale (0.0112),perfecto (0.0108),calidad (0.0872),buena (0.0500),precio (0.0405),mejor (0.0105),buen (0.0007)
+LSA,,producto (0.4034),compra (0.1136),excelente (0.1012),sale (0.3104),perfecto (0.5320),bueno (0.3651),cumple (0.1662),rápido (0.0962),función (0.0875),recomiendo (0.0824)
